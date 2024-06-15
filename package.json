@@ -1,0 +1,18 @@
+{
+  "name": "szi021-project-calculator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SYED ZEESHAN IQBAL",
+  "license": "ISC",
+  "description": "A simple calculator with Typescript, Node.js and inquirer",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.22"
+  }
+}
