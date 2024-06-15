@@ -26,4 +26,4 @@ if (answer.operators === "Addition") {
   console.log("Please select valid operators");
 }
 
-console.log('THE END');
+console.log('Answer');
